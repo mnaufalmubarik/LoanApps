@@ -1,0 +1,7 @@
+scikit-learn==1.0.2
+numpy
+pandas
+matplotlib
+streamlit==0.76.0
+Pillow
+seaborn
